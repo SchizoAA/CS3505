@@ -1,0 +1,1 @@
+cat values.txt | while read line; do ./kilos_to_lbs.out $line; done

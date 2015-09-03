@@ -67,6 +67,7 @@
     <ClCompile Include="kilos_to_lbs.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="..\pipeTest.txt" />
     <Text Include="values.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
